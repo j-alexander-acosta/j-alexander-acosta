@@ -7,7 +7,8 @@
 * 🧮  Mi perfil es desarrollador Backend
 * 🖋️  Soy miembro de Python Software Foundation desde el año 2021
 * 🐍  Actualmente estoy profundizando mis conocimientos de Python con el framework Django
-* 🍵  También estoy realizando estudios de JavaScript - CSS para completar mi formación como desarrollador y lo estoy complementando con Angular
+* ☕  También estoy realizando estudios de JavaScript - CSS para completar mi formación como desarrollador y lo estoy complementando con Angular
+* ☁️  Me estoy certificando en la Escuela de Cloud Computing de Azure Microsoft
 * 📫  Puedes contactarme
     * 📱  Phone: +56986893876
     * 📧  email: j_alex_acosta@hotmail.com
