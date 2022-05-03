@@ -2,7 +2,7 @@
 
 ✨ Soy J. Alexander Acosta Z. ✨
 
-* 🏫  Actualmente estoy trabajando en la https://www.unach.cl/ cono Desarrollador de Software 
+* 🏫  Actualmente estoy trabajando en la https://www.unach.cl/ cono Desarrollador de Software en el proyecto https://aagesuite.unach.cl
 * 🇨🇱  Docente Universidad Adventista de Chile
 * 🧮  Mi perfil es desarrollador Backend
 * 🖋️  Soy miembro de Python Software Foundation desde el año 2021
