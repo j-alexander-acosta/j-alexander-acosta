@@ -13,7 +13,7 @@
    * Platzi:
       - Estudiante activo en el Bootcamp de Platzi Master
       - Ruta de aprendizaje de Python - Django
-      - JavaScript - CSS y lo estoy complementando con Angular
+      - JavaScript - CSS y Angular
    * Microsoft:
       - Estudiante en la Escuela de Cloud Computing de Azure Microsoft
 * 📫  Puedes contactarme
