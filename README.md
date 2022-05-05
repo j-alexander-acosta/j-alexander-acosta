@@ -5,12 +5,17 @@
 * 🏫  Actualmente estoy trabajando en la https://www.unach.cl/ cono Desarrollador de Software en el proyecto https://aagesuite.unach.cl, este es un sistema de gestión de los Colegios Adventistas de Chile
 * 🌎  Estoy participando en la construcción deAun desarrollo llamado Génesis que acogerá a los colegios Adventistas de Suramérica
 * 🇨🇱  Docente Universidad Adventista de Chile
-* 🦆 Experto en Linux
 * 🧮  Mi perfil es desarrollador Backend
 * 🖋️  Soy miembro de Python Software Foundation desde el año 2021
 * 🐍  Actualmente estoy profundizando mis conocimientos de Python con el framework Django
-* ☕  También estoy realizando estudios de JavaScript - CSS para completar mi formación como desarrollador y lo estoy complementando con Angular
-* ☁️  Me estoy certificando en la Escuela de Cloud Computing de Azure Microsoft
+* 🦆  Experto en Linux
+* ☕  Estoy en constante aprendizaje lo cual me ha llevado a realizar varios rutas de aprendizaje con diferentes escuelas
+   * Platzi:
+      - Estudiante activo en el Bootcamp de Platzi Master
+      - Ruta de aprendizaje de Python - Django
+      - JavaScript - CSS y lo estoy complementando con Angular
+   * Microsoft:
+      - Estudiante en la Escuela de Cloud Computing de Azure Microsoft
 * 📫  Puedes contactarme
     * 📱  Phone: +56986893876
     * 📧  email: j_alex_acosta@hotmail.com
