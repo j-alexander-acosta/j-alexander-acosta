@@ -20,6 +20,6 @@
     * 📱  Phone: +56986893876
     * 📧  email: j_alex_acosta@hotmail.com
 * 🇨🇴  Estudiante de Platzi Máster: https://platzi.com/p/j_alex_acosta/
-* 🧔  Enlazado: https://www.linkedin.com/in/j-alexander-acosta-z/
+* 🧔  LinkedIn: https://www.linkedin.com/in/j-alexander-acosta-z/
 * 🌳  Enlaces: https://linktr.ee/alexander_acosta
 * ⚡  Curiosidades: Me gusta ponerme retos y que exijan al igual que tenga una guianza para poder cumplir con las metas propuestas
