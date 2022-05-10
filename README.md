@@ -8,10 +8,10 @@
 * 🧮  Mi perfil es desarrollador Backend
 * 🖋️  Soy miembro de Python Software Foundation desde el año 2021
 * 🐍  Actualmente estoy profundizando mis conocimientos de Python con el framework Django
-* 🦆  Experto en Linux
+* 🐧  Competente en Linux 
 * ☕  Estoy en constante aprendizaje lo cual me ha llevado a realizar varios rutas de aprendizaje con diferentes escuelas
-   * Platzi:
-      - Estudiante activo en el Bootcamp de Platzi Master
+   * Platzi: 
+      - Estudiante activo en el curso de profundización de Platzi Master
       - Ruta de aprendizaje de Python - Django
       - JavaScript - CSS y Angular
    * Microsoft:
