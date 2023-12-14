@@ -3,7 +3,7 @@
 ✨ Soy J. Alexander Acosta Z. ✨
 
 * 🏫  Actualmente estoy trabajando en la https://www.unach.cl/ cono Desarrollador de Software en el proyecto https://aagesuite.unach.cl, este es un sistema de gestión de los Colegios Adventistas de Chile
-* 🌎  Estoy participando en la construcción deAun desarrollo llamado Génesis que acogerá a los colegios Adventistas de Suramérica
+* 🌎  Estoy participando en la construcción de un desarrollo llamado Génesis que acogerá a los colegios Adventistas de Suramérica
 * 🇨🇱  Docente Universidad Adventista de Chile
 * 🧮  Mi perfil es desarrollador Backend
 * 🖋️  Soy miembro de Python Software Foundation desde el año 2021
