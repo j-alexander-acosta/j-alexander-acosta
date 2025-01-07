@@ -10,7 +10,8 @@
 * 🧮  Mi perfil es desarrollador Backend
 * 🖋️  Soy miembro de Python Software Foundation desde el año 2021
 * 🐍  Actualmente estoy profundizando mis conocimientos de Python con el framework Django
-* 🐧  Competente en Linux 
+* 🐧  Competente en Linux
+* 🇨🇱  Estudiante de Magister en Gestión de Proyectos de Innovación Social en la Universidad Adventista de Chile
 * ☕  Estoy en constante aprendizaje lo cual me ha llevado a realizar varios rutas de aprendizaje con diferentes escuelas
    * Platzi: 
       - Estudiante activo en el curso de profundización de Platzi Master
@@ -21,7 +22,6 @@
 * 📫  Puedes contactarme
     * 📱  Phone: +56986893876
     * 📧  email: j_alex_acosta@hotmail.com
-* 🇨🇱  Estudiante de Magister en Gestión de Proyectos de Innovación Social en la Universidad Adventista de Chile
 * 🇨🇴  Estudiante de Platzi Máster: https://platzi.com/p/j_alex_acosta/
 * 🧔  LinkedIn: https://www.linkedin.com/in/j-alexander-acosta-z/
 * 🌳  Enlaces: https://linktr.ee/alexander_acosta
