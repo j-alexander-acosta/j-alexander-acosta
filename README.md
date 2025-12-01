@@ -2,8 +2,8 @@
 
 ✨ Soy J. Alexander Acosta Z. ✨
 
-* 🏫  Actualmente estoy desarrolladon una aplicación con IA, la cual ayudará a prevenir las muertes por el Cáncer Cervicouterino en Chile.
-* 🏫  Participe en el grupo de desarooladores de la AAGE-Suite en la https://www.unach.cl/ cono Desarrollador de Software en el proyecto https://aagesuite.unach.cl, este es un sistema de gestión de los Colegios Adventistas de Chile.
+* 🏫  Actualmente estoy desarrolladon una aplicación con IA, la cual ayudará en la prevención del Cáncer de Cuello Uerino en Chile.
+* 🏫  Participe en el grupo de desarrolladores de la AAGE-Suite en la https://www.unach.cl/ cono Desarrollador de Software en el proyecto https://aagesuite.unach.cl, este es un sistema de gestión de los Colegios Adventistas de Chile.
 * 🌎  Colaboré en la construcción de un desarrollo llamado Génesis que acogió a los colegios y Universidades Adventistas de Suramérica.
 * 🇨🇱  Docente Universidad Adventista de Chile
 * 🇨🇱  Docente Universidad Católica de la Santísima Concepción UCSC
@@ -11,7 +11,7 @@
 * 🖋️  Soy miembro de Python Software Foundation desde el año 2021
 * 🐍  Actualmente estoy profundizando mis conocimientos de Python con el framework Django
 * 🐧  Competente en Linux
-* 🇨🇱  Estudiante de Magister en Gestión de Proyectos de Innovación Social en la Universidad Adventista de Chile
+* 🇨🇱  **Magister** en Gestión de Proyectos de Innovación Social en la Universidad Adventista de Chile
 * ☕  Estoy en constante aprendizaje lo cual me ha llevado a realizar varios rutas de aprendizaje con diferentes escuelas
    * Platzi: 
       - Estudiante activo en el curso de profundización de Platzi Master
