@@ -1,4 +1,4 @@
-# 👋 Hola, soy J. Alexander Acosta Z.
+# 👋 Hola, soy Alexander Acosta.
 
 ### 🎓 **Doctorando en Inteligencia Artificial | Magíster en Gestión de Proyectos de Innovación Social | Especialista en HealthTech & Backend**
 [cite_start]Actualmente curso el **Doctorado en Inteligencia Artificial** en la **Universidad Católica del Norte (UCN)** [cite: 65, 74][cite_start], enfocándome en el desarrollo de soluciones de alto impacto social mediante **Deep Learning** y **XAI**[cite: 6, 8].
