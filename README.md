@@ -43,4 +43,4 @@ Actualmente curso el **Doctorado en Inteligencia Artificial** en la **Universida
 
 ---
 
-> **⚡ Curiosidad:** Me apasionan los retos técnicos que exigen soluciones creativas y con propósito. [cite_start]Mi meta es transformar la salud pública a través de la inteligencia artificial rigurosa y de clase mundial[cite: 23, 33].
+> **⚡ Curiosidad:** Me apasionan los retos técnicos que exigen soluciones creativas y con propósito. Mi meta es transformar la salud pública a través de la inteligencia artificial rigurosa y de clase mundial.
