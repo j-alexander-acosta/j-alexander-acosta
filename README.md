@@ -27,7 +27,7 @@ Actualmente curso el **Doctorado en Inteligencia Artificial** en la **Universida
 
 ## 📚 Formación y Docencia
 
-* 🎓 **Doctorando en Inteligencia Artificial** - Universidad Católica del Norte (En curso).
+* 🎓 **Estudiante de Doctorado en Inteligencia Artificial** - Universidad Católica del Norte (En curso).
 * 🎓 **Magíster en Gestión de Proyectos de Innovación Social** - Universidad Adventista de Chile.
 * 👨‍🏫 **Docente Universitario:** Universidad Adventista de Chile (Unach) y Universidad Católica de la Santísima Concepción (UCSC).
 * 🚀 **Platzi Master:** Estudiante activo en rutas de profundización de Python, Django y Desarrollo Web.
