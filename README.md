@@ -37,6 +37,8 @@ Actualmente curso el **Doctorado en Inteligencia Artificial** en la **Universida
 ## 📫 Contacto y Redes
 
 * 🧔 **LinkedIn:** [j-alexander-acosta-z](https://www.linkedin.com/in/j-alexander-acosta-z/)
+* 📸 **Instagram:** [j_alexander_acosta_z](https://www.instagram.com/j_alexander_acosta_z/)
+* 👥 **Facebook:** [J.Alex.Acosta](https://www.facebook.com/J.Alex.Acosta)
 * 📧 **Email:** j_alex_acosta@hotmail.com
 * 📱 **WhatsApp:** +56 9 8689 3876
 
